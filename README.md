@@ -1,4 +1,5 @@
 SleepSize: Ferramenta de Congelamento de Diretórios
+<img width="216" height="182" alt="image" src="https://github.com/user-attachments/assets/791e0420-e88b-4624-b68c-917524953dc1" />
 
 Visão Geral
 
